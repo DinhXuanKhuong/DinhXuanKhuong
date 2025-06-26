@@ -9,9 +9,6 @@ Welcome to my GitHub! I'm a third year student at VNUHCM - University of Science
 
 ## 🚀 Projects
 Here are some projects I'm proud of:
-- **[Project Name](project-link)**: Short description about what it does.
-- **[Another Project](link)**: One-liner about tech and purpose.
-- **[Cool Tool](link)**: What makes it interesting.
 
 ## 📫 Connect with Me
 - 🌐 Website/Portfolio: [yourwebsite.com](https://yourwebsite.com)
