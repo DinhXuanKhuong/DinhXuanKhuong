@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Dinh Xuan Khuong!
 
-<!--
-**DinhXuanKhuong/DinhXuanKhuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a third year student at VNUHCM - University of Science with a passion for AI. I love building meaningful projects, exploring new technologies, and contributing to open-source communities.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- 💻 Languages: Python, C++, R
+- 🛠️ Tools: Git, VSCode, Docker
+- 🗃️ Databases: T-SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+Here are some projects I'm proud of:
+- **[Project Name](project-link)**: Short description about what it does.
+- **[Another Project](link)**: One-liner about tech and purpose.
+- **[Cool Tool](link)**: What makes it interesting.
+
+## 📫 Connect with Me
+- 🌐 Website/Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- 📧 Email: dinhxuankhuong2005@gmail.como
+- 💼 LinkedIn: [Khuong (Joey) Dinh Xuan](https://www.linkedin.com/in/dinhxuankhuong/)
