@@ -11,6 +11,5 @@ Welcome to my GitHub! I'm a third year student at VNUHCM - University of Science
 Here are some projects I'm proud of:
 
 ## 📫 Connect with Me
-- 🌐 Website/Portfolio: [yourwebsite.com](https://yourwebsite.com)
 - 📧 Email: dinhxuankhuong2005@gmail.como
 - 💼 LinkedIn: [Khuong (Joey) Dinh Xuan](https://www.linkedin.com/in/dinhxuankhuong/)
