@@ -7,9 +7,6 @@ Welcome to my GitHub! I'm a third year student at VNUHCM - University of Science
 - 🛠️ Tools: Git, VSCode, Docker
 - 🗃️ Databases: T-SQL
 
-## 🚀 Projects
-Here are some projects I'm proud of:
-
 ## 📫 Connect with Me
 - 📧 Email: dinhxuankhuong2005@gmail.como
 - 💼 LinkedIn: [Khuong (Joey) Dinh Xuan](https://www.linkedin.com/in/dinhxuankhuong/)
