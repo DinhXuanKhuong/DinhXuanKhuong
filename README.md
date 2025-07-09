@@ -8,5 +8,6 @@ Welcome to my GitHub! I'm a third year student at VNUHCM - University of Science
 - 🗃️ Databases: T-SQL
 
 ## 📫 Connect with Me
-- 📧 Email: dinhxuankhuong2005@gmail.com
-- 💼 LinkedIn: [Khuong (Joey) Dinh Xuan](https://www.linkedin.com/in/dinhxuankhuong/)
+- Email: dinhxuankhuong2005@gmail.com
+- LinkedIn: [Khuong (Joey) Dinh Xuan](https://www.linkedin.com/in/dinhxuankhuong/)
+- Leetcode: [Dinh Xuan Khuong](https://leetcode.com/u/xuankhuongw/)
