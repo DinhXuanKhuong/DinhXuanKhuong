@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="dinhxuankhuong2005@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="dinhxuankhuong2005@gmail.com" height="30" width="40" /></a>
+<a href="mailto:dinhxuankhuong2005@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="dinhxuankhuong2005@gmail.com" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dinhxuankhuong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinhxuankhuong" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/xuankhuongw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xuankhuongw" height="30" width="40" /></a>
 
