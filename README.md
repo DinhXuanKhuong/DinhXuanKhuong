@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dinh Xuan Khuong</h1>
+<h1 align="center">Hi guys, I'm Dinh Xuan Khuong</h1>
 <h5 align="center">Welcome to my GitHub! I'm a third year student at VNUHCM - University of Science with a passion for AI. I love building meaningful projects, exploring new technologies, and contributing to open-source communities.</h5>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinhxuankhuong" alt="dinhxuankhuong" /></a> </p>
