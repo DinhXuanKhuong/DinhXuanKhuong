@@ -24,11 +24,23 @@ I'm Khuong, also known as **Joey Dinh**, a fourth-year Computer Science student 
 - **Machine learning:** PyTorch, TensorFlow, pandas, scikit-learn
 - **Applications & systems:** FastAPI, Docker, Git, Linux, SQL
 
-## Contribution activity
+## GitHub activity
 
-[![Dinh Xuan Khuong's GitHub contribution calendar](https://ghchart.rshah.org/5364ac/DinhXuanKhuong)](https://github.com/DinhXuanKhuong?tab=overview)
+<p align="center">
+  <a href="https://github.com/DinhXuanKhuong?tab=overview">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=DinhXuanKhuong&amp;border_radius=8&amp;card_width=600&amp;card_height=200&amp;timezone=Asia%2FHo_Chi_Minh&amp;disable_animations=true&amp;background=0D1117&amp;border=30363D&amp;stroke=30363D&amp;ring=58A6FF&amp;fire=F59E0B&amp;currStreakNum=E6EDF3&amp;sideNums=E6EDF3&amp;currStreakLabel=58A6FF&amp;sideLabels=C9D1D9&amp;dates=8B949E">
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=DinhXuanKhuong&amp;border_radius=8&amp;card_width=600&amp;card_height=200&amp;timezone=Asia%2FHo_Chi_Minh&amp;disable_animations=true&amp;background=FFFFFF&amp;border=D8DEE4&amp;stroke=D8DEE4&amp;ring=2563EB&amp;fire=F59E0B&amp;currStreakNum=1F2937&amp;sideNums=1F2937&amp;currStreakLabel=2563EB&amp;sideLabels=475569&amp;dates=64748B">
+      <img src="https://streak-stats.demolab.com/?user=DinhXuanKhuong&amp;border_radius=8&amp;card_width=600&amp;card_height=200&amp;timezone=Asia%2FHo_Chi_Minh&amp;disable_animations=true&amp;background=FFFFFF&amp;border=D8DEE4&amp;stroke=D8DEE4&amp;ring=2563EB&amp;fire=F59E0B&amp;currStreakNum=1F2937&amp;sideNums=1F2937&amp;currStreakLabel=2563EB&amp;sideLabels=475569&amp;dates=64748B" alt="GitHub contribution statistics: total contributions, current daily streak, and longest daily streak" width="600">
+    </picture>
+  </a>
+</p>
 
-[View contribution history on GitHub](https://github.com/DinhXuanKhuong?tab=overview) · [Contribution tracker on my portfolio](https://dinhxuankhuong.github.io/#activity)
+### Contribution calendar
+
+[![Dinh Xuan Khuong's GitHub contribution calendar](https://ghchart.rshah.org/2563eb/DinhXuanKhuong)](https://github.com/DinhXuanKhuong?tab=overview)
+
+[View full contribution history →](https://github.com/DinhXuanKhuong?tab=overview)
 
 ## Beyond code
 
