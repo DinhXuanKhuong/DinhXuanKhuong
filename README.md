@@ -1,26 +1,37 @@
-<h1 align="center">Hi guys, I'm Dinh Xuan Khuong</h1>
-<h5 align="center">Welcome to my GitHub! I'm a third year student at VNUHCM - University of Science with a passion for AI. I love building meaningful projects, exploring new technologies, and contributing to open-source communities.</h5>
+# Dinh Xuan Khuong
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinhxuankhuong" alt="dinhxuankhuong" /></a> </p>
+**Computer Science · Language Models · Multimodal Learning**
 
+I'm Khuong, also known as **Joey Dinh**, a fourth-year Computer Science student at the **University of Science, VNU-HCM**. I explore speech language models and multimodal learning, and build projects that connect machine learning ideas with working applications.
 
+[Portfolio](https://dinhxuankhuong.github.io) · [LinkedIn](https://www.linkedin.com/in/dinhxuankhuong/) · [Email](mailto:dinhxuankhuong2005@gmail.com) · [OpenReview](https://openreview.net/profile?id=%7EXuan-Khuong_Dinh1)
 
-<h3 align="left">Languages and Tools:</h3>
-<h4 align="left">Know well: </h4>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<h4 align="left">Have used in some projects: </h4>
-<p align="left">  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-<h4 align="left">Embedded programming: </h4>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+## Featured projects
 
-<h3 align="left">My stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinhxuankhuong&show_icons=true&locale=en&layout=compact" alt="dinhxuankhuong" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinhxuankhuong&show_icons=true&locale=en" alt="dinhxuankhuong" /></p>
+| Project | Focus |
+| --- | --- |
+| [Build a LLM From Scratch](https://github.com/DinhXuanKhuong/Build-a-LLM-From-Scratch) | GPT-style model implementations in PyTorch, from tokenization and attention to training and generation. |
+| [Techies](https://github.com/DinhXuanKhuong/Techies) | An experimental multimodal dermatology assistant combining vision, Vietnamese NLP, retrieval, and agent workflows. |
+| [InTelFace](https://github.com/DinhXuanKhuong/Privacy-Preserving-Face-Recognition-System-Using-Homomorphic-Encryption) | A face-recognition demonstrator that compares encrypted embeddings using homomorphic encryption. |
+| [Flight Delay & Cancellation Analysis](https://github.com/DinhXuanKhuong/Flight-Delay-And-Cancellation) | Team analysis of over one million flight records; I led the project and worked on exploratory analysis and visualization. |
+| [Radiction](https://github.com/DinhXuanKhuong/Radiction-The-best-service) | Vietnamese review-rating prediction with fine-tuned PhoBERT, batch processing, and visual reports. |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="mailto:dinhxuankhuong2005@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="dinhxuankhuong2005@gmail.com" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dinhxuankhuong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinhxuankhuong" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/xuankhuongw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xuankhuongw" height="30" width="40" /></a>
+[Explore project write-ups →](https://dinhxuankhuong.github.io/projects.html)
 
-</p>
+## Tools I work with
+
+- **Programming:** Python, C, C++
+- **Machine learning:** PyTorch, TensorFlow, pandas, scikit-learn
+- **Applications & systems:** FastAPI, Docker, Git, Linux, SQL
+
+## Contribution activity
+
+[![Dinh Xuan Khuong's GitHub contribution calendar](https://ghchart.rshah.org/5364ac/DinhXuanKhuong)](https://github.com/DinhXuanKhuong?tab=overview)
+
+[View contribution history on GitHub](https://github.com/DinhXuanKhuong?tab=overview) · [Contribution tracker on my portfolio](https://dinhxuankhuong.github.io/#activity)
+
+## Beyond code
+
+I write about what I'm learning and occasionally write Vietnamese poetry.
+
+[Learning notes](https://dinhxuankhuong.github.io/blog.html) · [Poetry](https://dinhxuankhuong.github.io/poems.html) · [LeetCode](https://leetcode.com/u/xuankhuongw/) · [TensorTonic](https://www.tensortonic.com/profile/dinhxuankhuong)
