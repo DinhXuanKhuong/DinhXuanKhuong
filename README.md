@@ -36,12 +36,6 @@ I'm Khuong, also known as **Joey Dinh**, a fourth-year Computer Science student 
   </a>
 </p>
 
-### Contribution calendar
-
-[![Dinh Xuan Khuong's GitHub contribution calendar](https://ghchart.rshah.org/2563eb/DinhXuanKhuong)](https://github.com/DinhXuanKhuong?tab=overview)
-
-[View full contribution history →](https://github.com/DinhXuanKhuong?tab=overview)
-
 ## Beyond code
 
 I write about what I'm learning and occasionally write Vietnamese poetry.
